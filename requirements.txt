@@ -1,0 +1,7 @@
+sklearn
+tsdb
+numpy
+h5py
+matplotlib
+pandas
+pypots
